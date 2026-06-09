@@ -16,7 +16,7 @@ The system functions by simulating human mouse and keyboard actions to capture c
 
 ## Technical Stack
 * **Language:** Python
-* **Automation:** PyAutoGUI for cursor movement and click events
+* **Automation:** PyAutoGUI for the cursor movement and click events
 * **AI Engine:** OpenAI GPT-3.5-turbo for natural language generation
 * **Clipboard Management:** Pyperclip for handling text transfer between the script and the chat window
 * **Dependencies:** Includes `pydantic`, `httpx`, and `PyGetWindow` for stability.
